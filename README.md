@@ -1,2 +1,2 @@
 # SQL Server Management Studio Demonstration
-University project demonstrating the ability to use DML and DDL based sql queries to resolve questions.
+A university project that tested my ability to use DML and DDL-based sql queries to resolve questions.
